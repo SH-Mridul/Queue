@@ -1,6 +1,6 @@
 package Queue;
 
-public class WithOutCircularArrayQueue {
+public class QueueUsingArray {
 
 	public static int size = 5;
 	public static int front = 0,rear = -1;
